@@ -1,0 +1,12 @@
+h1 {
+    font-family:'Press Start 2P', cursive; 
+}
+p {
+    font-family: 'VT323', monospace;
+    box-sizing: border-box;
+   
+}
+body {
+    background-image: url("assets/images/pastelbackground.jpg");
+}
+
