@@ -1,12 +1,18 @@
+body {
+    background-image: url("assets/images/secondbackground.jpg");
+    background-size: cover;
+}
+
 h1 {
     font-family:'Press Start 2P', cursive; 
 }
 p {
     font-family: 'VT323', monospace;
     box-sizing: border-box;
-   
+    font-size: 22px;
 }
-body {
-    background-image: url("assets/images/pastelbackground.jpg");
+.card {
+    padding: 10px;
+    margin: 5px;
 }
 
